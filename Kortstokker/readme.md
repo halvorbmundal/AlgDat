@@ -13,11 +13,11 @@ Kobra bøyer seg ned og undersøker.
 
 ##Input-eksempel##
 
-i:1,3,5,8
-n:2
-t:4,7
-a:6
-v:9
+i:1,3,5,8  
+n:2  
+t:4,7  
+a:6  
+v:9  
 
 ##Tilhørende output##
 

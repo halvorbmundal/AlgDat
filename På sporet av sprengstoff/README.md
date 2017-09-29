@@ -6,12 +6,13 @@ Input består av heltall separert av linjeskift. Programmet ditt skal legge inn d
 
 ##Input-eksempel##
 
-54
-37
-100
-123
-1
-54
+54  
+37  
+100  
+123  
+1  
+54  
+
 ##Tilhørende output##
 
 123
