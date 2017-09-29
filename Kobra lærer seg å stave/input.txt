@@ -5,3 +5,7 @@ m?d/n
 e?/n
 mo?s/n
 hun?/n
+
+Du kan teste programmet ditt med kommandoen:
+
+    python program.py < input.txt

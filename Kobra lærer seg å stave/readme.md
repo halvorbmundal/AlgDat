@@ -8,15 +8,15 @@ Funksjonen posisjoner(ord, indeks, node) som skal returnerer posisjonene til all
 
 ##Input-eksempel##
 
-ha ha mons har en hund med moms hun er en hunn
-ha
-mjau
-m?d
-e?
+ha ha mons har en hund med moms hun er en hunn  
+ha  
+mjau  
+m?d  
+e? 
 
 ##Tilhørende output##
 
-ha: 0 3
-mjau:
-m?d: 23
-e?: 15 36 39
+ha: 0 3  
+mjau:  
+m?d: 23  
+e?: 15 36 39  
