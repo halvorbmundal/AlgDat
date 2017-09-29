@@ -20,3 +20,7 @@ ha: 0 3
 mjau:  
 m?d: 23  
 e?: 15 36 39  
+
+Du kan teste programmet med kommandoen:
+
+    python program.py < input.txt

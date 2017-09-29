@@ -1,11 +1,5 @@
-ha ha mons har en hund med moms hun er en hunn /n
-ha/n
-mjau/n
-m?d/n
-e?/n
-mo?s/n
-hun?/n
-
-Du kan teste programmet ditt med kommandoen:
-
-    python program.py < input.txt
+ha ha mons har en hund med moms hun er en hunn
+ha
+mjau
+m?d
+e?

@@ -22,3 +22,7 @@ v:9
 ##Tilhørende output##
 
 initiativ
+
+Du kan teste programmet med kommandoen:
+
+    python program.py < input.txt

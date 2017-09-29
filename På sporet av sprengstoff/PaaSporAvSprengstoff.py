@@ -9,14 +9,6 @@ class Kubbe:
         self.vekt = vekt
         self.neste = None
 
-
-#foerste = Kubbe(54)
-#kubbe2 = Kubbe(37)
-#kubbe3 = Kubbe(100)
-#kubbe4 = Kubbe(123)
-#kubbe5 = Kubbe(1)
-#kubbe6 = Kubbe(54)
-#li=[54,37,1,1,123]
 def spor(kubbe):
     a = 0
     k = kubbe
