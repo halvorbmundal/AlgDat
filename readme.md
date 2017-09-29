@@ -1,1 +1,1 @@
-Dette er oppgaver jeg fikk i faget Algoritmer og datastukturer høsten 2016. Alle oppgavene gitt ut på å løse et problem på kjappest mulig tid.
+Dette er oppgaver jeg fikk i faget Algoritmer og datastukturer høsten 2016. Alle oppgavene gitt ut på å løse et problem på kortest mulig tid.
