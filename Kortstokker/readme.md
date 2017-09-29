@@ -1,15 +1,12 @@
-#Kortstokker#
+#Oppgave#
 
-Det er ikke nødvendig å lese historien for å løse oppgaven.
-Algemannen står på toppen av en skyskraper. I hendene har han en liten dings som sier "Tikk, takk. Tikk, takk." På bakken ved siden av ham ligger det noen kortstokker og en konvolutt.
-- Kobra, tar du og åpner den konvolutten som ligger på bakken der?
-Kobra tar opp konvolutten, og åpner den nervøst. Han skummer gjennom brevet før han leser det høyt.
-- "Ha, ha! For siste gang har dere stukket kjepper i hjulene mine. Dette er slutten på deres karrierer og liv! Den eneste sjansen dere har til å overleve, er å løse gåten og taste inn den hemmelige koden på bomben. Med vennlig hilsen dr. Gewalt." Å, nei! Vi har et kjempeproblem! Jeg hater gåter.
-- Ta det med ro, Kobra. Dette ordner seg. Står det ikke noe mer i brevet, kanskje med liten skrift eller noe?
-- Hmm. Jo, her står det noe. "Hint: Ha, ha. Dere får ikke noe hint!".
-- Dette blir for dumt, sier Algemannen. Dette bryter liksom med en eller annen uskreven kodeks eller noe. Men som de joviale karene vi er, får vi bare gjøre det beste ut av situasjonen. Hva er det med de kortstokkene?
-Kobra bøyer seg ned og undersøker.
-- Hmm, det er skrevet noen tall og bokstaver på dem. Hva skal det bety mon tro?
+I denne øvingen skal du flette sammen et sett med kortstokker. På hvert av disse kortene står det ett tall og en bokstav. Hver enkelt stokk er allerede sortert på tall. Oppgaven din er å flette stokkene sammen slik at resultatet fremdeles er riktig sortert. Det er mange forskjellige måter å løse dette problemet på, men det enkleste er nok å flette sammen stokkene som du gjør i merge-sort. Se Cormen side 32.
+
+Input til programmet er en stokk på hver linje. Kortene i hver stokk har alltid samme bokstav. Hver linje begynner med bokstaven til stokken etterfulgt av kolon. Deretter kommer verdien til kortene, separert med komma, i sortert rekkefølge. Det vil aldri finnes to kort med samme verdi. Du skal skrive ut ordet som bokstavene til de sorterte kortene danner (uten mellomrom).
+
+Hvis du implementerer fornuftig, blir kjøretiden O(n log k), hvor k er antall stokker. Men mergingen av disses stokkene kan til og med bli mer enn O(n log n) hvis du merger dem i på en dum måte. Den kan bli så mye som O(n2). Hvordan det? Spør en studass hvis du ikke finner det ut.
+
+I denne øvingen er det ikke tillatt å bruke den innebygde list.sort(). Ikke levér slike løsninger på øvingssystemet. Det er også juks å bruke modulen heapq og lignende. Moral: Alt som har med selve sorteringen å gjøre må du gjøre selv.
 
 ##Input-eksempel##
 
